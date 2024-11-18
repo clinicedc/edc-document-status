@@ -14,4 +14,3 @@ edc_document_status
 
 .. |downloads| image:: https://pepy.tech/badge/edc-document-status
    :target: https://pepy.tech/project/edc-document-status
-
